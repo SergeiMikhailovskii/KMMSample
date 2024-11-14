@@ -8,7 +8,7 @@ pluginManagement {
     }
 
     plugins {
-        id("org.jetbrains.compose").version("1.5.11")
+        id("org.jetbrains.compose").version("1.8.0+check")
     }
 }
 
