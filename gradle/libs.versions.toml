@@ -37,7 +37,7 @@ mockk = "1.13.3"
 espresso = "3.5.1"
 kotlin = "1.9.20"
 
-uiTestManifest = "1.5.4"
+uiTestManifest = "1.7.7"
 
 decompose = "2.1.3-compose-experimental"
 essenty = "1.3.0"
